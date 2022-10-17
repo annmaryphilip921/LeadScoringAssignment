@@ -42,16 +42,13 @@ Explain the results in business terms
 Include visualisations and summarise the most important results in the presentation
 A brief summary report in 500 words explaining how you proceeded with the assignment and the learnings that you gathered.
  
- 
- ## CONTENTS IN THE REPOSITORY:
- 1.  lead.csv- Data set provided for the analysis
 
 
+# Authors:
+
+ANN MARY PHILIP
 
 
-
- Authors:
- Ann Mary Philip
- Sumit Kawalkar
+SUMIT KAWALKAR
  
  
